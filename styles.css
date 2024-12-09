@@ -1,0 +1,26 @@
+.container>ul {
+    list-style-type:none;
+}
+
+.container>ul>li {
+    background-color: lightblue;
+}
+
+.container2 p {
+    color: blue;
+}
+
+.container2 .highlight {
+    color: red;
+}
+
+.container3 h2+p {
+    font-size: 30px;
+    color: blue;
+}
+.container4 h3~p{
+    color: darkblue;
+}
+.container5 ul>li{
+    font-size: 24px;
+}
